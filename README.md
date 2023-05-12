@@ -1,7 +1,7 @@
 # Sobre
 Estes documento README tem como objetivo fornecer as informações necessárias para realização do projeto **Desafio Jusfy**.
 # 💻 O que fazer?
-- Você deve criar seu projeto e subir em um repositório e ao finalizar, enviar o link do seu repositório para a nossa equipe. Lembre-se, NÃO é necessário criar um Pull Request para isso, nós iremos avaliar e retornar por email o resultado do seu teste.
+- Você deve criar seu projeto e subir em um repositório e ao finalizar, enviar o link do seu repositório para a nossa equipe em até 01 semana. Lembre-se, NÃO é necessário criar um Pull Request para isso, nós iremos avaliar e retornar por email o resultado do seu teste.
 # :hammer: Requisitos
 - Seu projeto deverá ser construído utilizando **ReactJS**.
 - Seu projeto deverá ser construído utilizando o layout disponibilizado na descrição do teste.
@@ -40,3 +40,5 @@ Você deverá construir um projeto utilizando o layout proposto
 - **Servidor:** 
 - **Usuário de Teste:** desafio@jusfy.com.br
 - **Senha de Teste:** 12341234
+
+
