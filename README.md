@@ -1,8 +1,8 @@
 # Sobre
 Estes documento README tem como objetivo fornecer as informações necessárias para realização do projeto **Desafio Jusfy**.
-# :obra_prédio: O que fazer?
+# 💻: O que fazer?
 - Você deve criar seu projeto e subir em um repositório e ao finalizar, enviar o link do seu repositório para a nossa equipe. Lembre-se, NÃO é necessário criar um Pull Request para isso, nós iremos avaliar e retornar por email o resultado do seu teste.
-# :batedor: Requisitos
+# :hammer: Requisitos
 - Seu projeto deverá ser construído utilizando **ReactJS**.
 - Seu projeto deverá ser construído utilizando o layout disponibilizado na descrição do teste.
 - A integração com a API deve ser feita respeitando todos os contratos de OAuth.
